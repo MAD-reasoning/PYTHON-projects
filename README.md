@@ -1,6 +1,6 @@
 # Project-PYTHON-
 
-01. Tic-Tac
+01. Dictionary
 02.
 03.
 04.
