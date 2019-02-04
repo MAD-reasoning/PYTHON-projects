@@ -1,7 +1,7 @@
 # Project-PYTHON-
 
 01. Dictionary
-02. Cancer data (ML)
+02. Cancer Prediction
 03.
 04.
 05.
